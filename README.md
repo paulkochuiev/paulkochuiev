@@ -1,21 +1,17 @@
-## Paul Kochuiev
+## About
 
-**Software Engineer**
+Software Engineer focused on building scalable and maintainable web applications, with a strong emphasis on frontend architecture, performance, and user experience.
 
-- [LinkedIn](https://www.linkedin.com/in/paulkochuiev/)
-- [Website](https://paulkochuiev.com/)
-- [GitHub](https://github.com/paulkochuiev)
+I work mostly with modern frontend stacks and enjoy turning complex product requirements into clean, reliable interfaces.
 
 ---
 
-### About
+## Mentoring
 
-Software Engineer focused on building scalable, maintainable web applications with a strong emphasis on frontend architecture, performance, and user experience.
+I’m a mentor on **ADPList**, helping engineers with:
 
----
+- career direction and positioning
+- job search strategy
+- understanding the market and next steps
 
-### Mentoring
-
-I’m a mentor on **ADPList**, helping engineers with career direction, job search strategy, and positioning.
-
-👉 [Book a session on ADPList](https://adplist.org/mentors/paul-kochuiev)
+👉 Book a session: https://adplist.org/mentors/paul-kochuiev
