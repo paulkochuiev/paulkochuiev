@@ -4,8 +4,6 @@ Software Engineer focused on building scalable and maintainable web applications
 
 I work mostly with modern frontend stacks and enjoy turning complex product requirements into clean, reliable interfaces.
 
----
-
 ## Mentoring
 
 I’m a mentor on **ADPList**, helping engineers with:
