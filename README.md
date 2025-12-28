@@ -1,9 +1,21 @@
-### Hi, I'm Paul 👋
+## Paul Kochuiev
 
-Front-end Engineer with 6+ years of experience in React and TypeScript.
-Focused on performance, clean architecture, and scalable UI systems.
+**Software Engineer**
 
-🔹 Tech: React, TypeScript, Next.js  
-🔹 Location: Warsaw, Poland  
-🔹 Portfolio: https://paulkochuiev.com  
-🔹 LinkedIn: https://linkedin.com/in/paulkochuiev
+- [LinkedIn](https://www.linkedin.com/in/paulkochuiev/)
+- [Website](https://paulkochuiev.com/)
+- [GitHub](https://github.com/paulkochuiev)
+
+---
+
+### About
+
+Software Engineer focused on building scalable, maintainable web applications with a strong emphasis on frontend architecture, performance, and user experience.
+
+---
+
+### Mentoring
+
+I’m a mentor on **ADPList**, helping engineers with career direction, job search strategy, and positioning.
+
+👉 [Book a session on ADPList](https://adplist.org/mentors/paul-kochuiev)
