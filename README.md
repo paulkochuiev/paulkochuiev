@@ -1,15 +1,9 @@
 ## About
 
-Software Engineer focused on building scalable and maintainable web applications, with a strong emphasis on frontend architecture, performance, and user experience.
+Software Engineer experienced in building scalable, high-quality web applications across product environments, including e-commerce, SaaS, and internal platforms. Worked in international product teams, delivering business value through reliable architecture, thoughtful UX, and maintainable code.
 
-I work mostly with modern frontend stacks and enjoy turning complex product requirements into clean, reliable interfaces.
+Strong focus on problem-solving, collaboration, and building systems that scale with both product and team growth.
 
 ## Mentoring
 
-I’m a mentor on **ADPList**, helping engineers with:
-
-- career direction and positioning
-- job search strategy
-- understanding the market and next steps
-
-👉 Book a session: https://adplist.org/mentors/paul-kochuiev
+I’m a mentor on [ADPList](https://adplist.org/mentors/paul-kochuiev), helping engineers with career direction, job search strategy, positioning, and navigating the tech market through practical, experience-based conversations.
